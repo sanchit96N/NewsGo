@@ -1,9 +1,9 @@
-news_feed_app
+NewsGo
 =========================================
 
 About
 =========================================
-news_feed_app is a desktop application allowing users to browse through different categories of news articles.
+It is a desktop application allowing users to browse through different categories of news articles.
 
 Installation
 =========================================
